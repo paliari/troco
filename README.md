@@ -58,3 +58,6 @@ Ao concluir, publicar o código na sua conta do GitHub e me enviar um Pull Reque
 Os critérios acima são os requisitos mínimos. Mas para os candidatos que pretendem se destacar, segue algumas sugestões.
 
 Adicionar no construtor da classe, uma array opcional contendo a quantidade de notas disponíveis para cada cédula. O troco deve ser retornado respeitando este limite de notas imposto. Caso não tenha cédulas suficientes para retornar o troco, gerar uma exceção.
+
+## Observação
+Pode adaptar o código para sua linguagem de preferência, o importante nesse teste é avaliar o raciocínio lógico.
