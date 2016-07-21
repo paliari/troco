@@ -46,7 +46,7 @@ Utilize o PHP **5.4** ou superior.
 
 1. Clareza do código
 2. Comentários relevantes
-3. Método protegido para auxiliar o cálculo, tirand a carga do método *getQtdeNotas*
+3. Método protegido para auxiliar o cálculo, tirando a carga do método *getQtdeNotas*
 4. Suite de teste unitário completa para garantir o funcionamento da classe
 5. Código formatado de acordo com os padrões do PHP [PSR-1](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md) e [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
 6. Este problema possui algumas soluções, mas será preferida aquela utilizando o loop **foreach**.
